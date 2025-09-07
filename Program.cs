@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello branch NewFeature 2");
+            Console.WriteLine("Hello branch NewFeature 3");
         }
     }
 }
